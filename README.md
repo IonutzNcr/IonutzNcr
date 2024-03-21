@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IonutzNcr
 - 👀 I’m interested in coding, games, mangas;
-- 🌱 I’m currently learning javascript; 
-- 💞️ I’m looking to collaborate on javascript projets to improve my skillset; 
-- 📫 How to reach add me on discord :) Ionut#7841
+- 🌱 I’m currently studying at Web@cadémie by Epitech; 
+- 📫 How to reach: ionutzncr@gmail.com
 
 <!---
 IonutzNcr/IonutzNcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
