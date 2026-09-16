@@ -17,7 +17,7 @@ C • C++ • TypeScript • JavaScript • PHP • Python
 React • Next.js • HTML • CSS
 
 **Backend**
-Node.js • NestJS • PHP • Laravel • Symfony
+Node.js • NextJS • PHP • Laravel • Symfony
 
 **Databases**
 MySQL • PostgreSQL • Firebase
