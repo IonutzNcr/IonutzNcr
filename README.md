@@ -75,3 +75,4 @@ I'm currently looking for a **6-month software/web development internship**, whe
 ## 📫 Contact
 
 Feel free to contact me through **LinkedIn** or explore my repositories below.
+LinkedIn: www.linkedin.com/in/ionut-nicoara
