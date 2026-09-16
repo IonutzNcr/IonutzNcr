@@ -20,7 +20,7 @@ React • Next.js • HTML • CSS
 Node.js • NextJS • PHP • Laravel • Symfony
 
 **Databases**
-MySQL • PostgreSQL • Firebase
+MySQL • MongoDb • Firebase
 
 **Tools & Environment**
 Git • Docker • Linux • Nginx
